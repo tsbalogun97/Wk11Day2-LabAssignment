@@ -19,7 +19,7 @@ app.get("/greeting", (req, res) => {
   res.render("GenericHello");
   
 });
-// ----Render is a way to display my jsx
+// ----Render is a way to display the jsx
 // ---- Send just display whatever is placed inside the quote
 
 // ------another way to display on the page
